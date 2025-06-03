@@ -34,4 +34,5 @@ A case-based presentation analyzing the failure of FTX through the lens of enter
 
 
 💡 Learning Outcomes
+
 The projects consolidate core concepts in enterprise risk management with practical analysis of real-world organizations. By examining both routine disclosure practices and crisis scenarios, they offer a dual perspective on how risk is managed in both stable and volatile environments.
