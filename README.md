@@ -4,7 +4,7 @@ This repository features two applied risk management projects that explore how l
 🗂️ Project Overview
 
 
-1. 10-K Risk Disclosure Analysis (Docx)
+**1. 10-K Risk Disclosure Analysis (Docx)**
 A comparative study of risk disclosures from PayPal Holdings, Inc. and ACI Worldwide, Inc., based on their most recent 10-K filings. The report outlines and categorizes disclosed risks across compliance, cybersecurity, credit exposure, and ESG, and examines how each firm communicates and prioritizes those risks.
 
 🔍 Key Insights:
@@ -15,7 +15,7 @@ A comparative study of risk disclosures from PayPal Holdings, Inc. and ACI World
 📄 File: `10K_Risk_Disclosure_Analysis.docx`
 
 
-2. FTX Collapse Case Study (PPTX)
+**2. FTX Collapse Case Study (PPTX)**
 A case-based presentation analyzing the failure of FTX through the lens of enterprise risk management. The deck traces systemic breakdowns in governance, transparency, and controls that led to one of the most significant collapses in cryptocurrency history.
 
 🔍 Key Insights:
