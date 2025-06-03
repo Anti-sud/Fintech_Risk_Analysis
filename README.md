@@ -1,4 +1,5 @@
-📘 Fintech Risk Analysis Projects
+**📘 Fintech Risk Analysis Projects**
+
 This repository features two applied risk management projects that explore how leading fintech companies identify, disclose, and respond to various categories of risk. The work reflects a strong foundation in regulatory analysis, operational risk evaluation, and strategic communication through real-world case studies and industry reports.
 
 🗂️ Project Overview
